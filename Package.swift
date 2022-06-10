@@ -15,8 +15,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "_ProseCoreClientFFI",
-      url: "https://github.com/nesium/prose-core-spm/releases/download//a3b0366/_ProseCoreClientFFI.xcframework.zip",
-      checksum: "1003b2d5ef451a0a06c928439e31f8c7fdae71b50fc3b6f695cc40e0dd4f8d54"
+      url: "https://github.com/nesium/prose-core-spm/releases/download/0.1.0/_ProseCoreClientFFI.xcframework.zip",
+      checksum: "702ad6c4d300b35694ed7309d6b26082ef9a5a2c30616b7525c19acbdb35ce84"
     ),
   ]
 )
